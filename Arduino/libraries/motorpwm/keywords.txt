@@ -1,0 +1,15 @@
+Motion	KEYWORD1
+
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+
+MoveForward_QR	KEYWORD2
+Turn_R_90	KEYWORD2
+Turn_L_90	KEYWORD2
+Turn_180	KEYWORD2
+setEncoderPin	KEYWORD2
+getAccmEncoderTicks	KEYWORD2
+MotorRotateCW	KEYWORD2
+MotorRotateCCW	KEYWORD2
+MotorBrakeLow	KEYWORD2
